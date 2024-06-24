@@ -8,8 +8,8 @@ document.querySelector('form').addEventListener('submit', function (e) {
 
     // busca os campos do formulário e define os data-labels, utilizando na responsividade da tabela
     const campos = [
-        { campo: document.querySelector('#floatingInput'), label: 'Valor' },
         { campo: document.querySelector('#floatingdata'), label: 'Data' },
+        { campo: document.querySelector('#floatingInput'), label: 'Valor' },
         { campo: document.querySelector('#floatingselect'), label: 'Categoria' },
         { campo: document.querySelector('#floatingdesc'), label: 'Descrição' }
     ];
