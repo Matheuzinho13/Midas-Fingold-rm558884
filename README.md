@@ -15,5 +15,5 @@ O nome Midas é uma sigla para Management , income, dynamic and services. Gestã
 Além disso, o rei Midas da mitologia grega transformava tudo o que tocava em ouro, simbolizando riqueza e valor. Assim, nosso site busca trazer prosperidade financeira aos usuários. 💰✨
 
 # Autor
-Desenvolvido por: Matheus Gonçalves de Morais
+Desenvolvido por: Matheus Gonçalves de Morais.
 RM: 558884
