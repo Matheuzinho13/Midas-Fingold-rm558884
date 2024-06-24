@@ -13,3 +13,7 @@ O Midas FinGold é uma fintech inovadora para gestão financeira, permitindo que
 # Origem do Nome
 O nome Midas é uma sigla para Management , income, dynamic and services. Gestão, renda, dinâmica e serviços, itens essenciais no nosso produto.
 Além disso, o rei Midas da mitologia grega transformava tudo o que tocava em ouro, simbolizando riqueza e valor. Assim, nosso site busca trazer prosperidade financeira aos usuários. 💰✨
+
+# Autor
+Desenvolvido por: Matheus Gonçalves de Morais
+RM: 558884
